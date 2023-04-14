@@ -2,16 +2,16 @@ const mongoose = require('mongoose')
 
 
 //checkpoint
-const pollSessionSchema = new mongoose.Schema({
-    sessionTitle: {
+// const pollSessionSchema = new mongoose.Schema({
+//     sessionTitle: {
 
-    },
-    participants: [
-        participant: {
-            name: 
-            availability: {
-                start: 
-            }
-        }
-    ]
-})
+//     },
+//     participants: [
+//         participant: {
+//             name: 
+//             availability: {
+//                 start: 
+//             }
+//         }
+//     ]
+// })
